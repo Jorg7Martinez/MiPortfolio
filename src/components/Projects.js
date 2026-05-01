@@ -1,9 +1,7 @@
 import React from 'react';
 import './Projects.css';
 // Import Swiper React components
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
