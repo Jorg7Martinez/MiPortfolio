@@ -167,4 +167,9 @@
   .projects-cta {
     padding: 2rem;
   }
+
+  .skills-content{
+    display: flex;
+    flex-direction: column;
+  }
 }
